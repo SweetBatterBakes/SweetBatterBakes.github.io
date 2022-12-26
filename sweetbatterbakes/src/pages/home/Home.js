@@ -1,22 +1,22 @@
 import React from "react";
 import { BsTypeH1 } from "react-icons/bs";
 import "./home.css";
-import homeCollage from "/Users/zainab/sweetbatterbakes/src/images/homeCollage2.png";
-import InstaL from "/Users/zainab/sweetbatterbakes/src/images/InstagramLogo.png";
-import Insta1 from "/Users/zainab/sweetbatterbakes/src/images/insta1.png";
-import Insta2 from "/Users/zainab/sweetbatterbakes/src/images/insta2.png";
-import Insta3 from "/Users/zainab/sweetbatterbakes/src/images/insta3.png";
-import Insta4 from "/Users/zainab/sweetbatterbakes/src/images/Insta4.png";
-import Insta5 from "/Users/zainab/sweetbatterbakes/src/images/Insta5.png";
-import Insta6 from "/Users/zainab/sweetbatterbakes/src/images/Insta6.png";
-import Insta7 from "/Users/zainab/sweetbatterbakes/src/images/Insta7.png";
-import Insta8 from "/Users/zainab/sweetbatterbakes/src/images/Insta8.png";
-import Insta9 from "/Users/zainab/sweetbatterbakes/src/images/Insta9.png";
-import Insta10 from "/Users/zainab/sweetbatterbakes/src/images/Insta10.png";
-import Cake from "/Users/zainab/sweetbatterbakes/src/images/cake.png"
-import Donut from "/Users/zainab/sweetbatterbakes/src/images/donut.png"
-import Ingredients from "/Users/zainab/sweetbatterbakes/src/images/ingredients.png"
-import companyLogo from "/Users/zainab/sweetbatterbakes/src/images/SBB_title2.png";
+import homeCollage from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/homeCollage2.png";
+import InstaL from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/InstagramLogo.png";
+import Insta1 from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/insta1.png";
+import Insta2 from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/insta2.png";
+import Insta3 from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/insta3.png";
+import Insta4 from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/Insta4.png";
+import Insta5 from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/Insta5.png";
+import Insta6 from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/Insta6.png";
+import Insta7 from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/Insta7.png";
+import Insta8 from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/Insta8.png";
+import Insta9 from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/Insta9.png";
+import Insta10 from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/Insta10.png";
+import Cake from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/cake.png"
+import Donut from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/donut.png"
+import Ingredients from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/ingredients.png"
+import companyLogo from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/SBB_title2.png";
 
 export default function Home(){
     return(

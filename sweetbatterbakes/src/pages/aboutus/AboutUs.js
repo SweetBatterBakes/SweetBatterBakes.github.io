@@ -1,7 +1,7 @@
 import React from 'react';
 import "./aboutus.css";
 
-import SBB_gif from "/Users/zainab/sweetbatterbakes/src/images/SBB.gif"
+import SBB_gif from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/SBB.gif"
 
 
 export default function AboutUs(){

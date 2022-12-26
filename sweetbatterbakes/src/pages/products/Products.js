@@ -2,17 +2,17 @@ import { Container } from "react-bootstrap";
 import "./products.css";
 import Dropdown from 'react-bootstrap/Dropdown';
 import DropdownButton from 'react-bootstrap/DropdownButton';
-import Banana from "/Users/zainab/sweetbatterbakes/src/images/flavor_preview/banana_bread.png";
-import Donut from "/Users/zainab/sweetbatterbakes/src/images/flavor_preview/donuts.png";
-import Madeline from "/Users/zainab/sweetbatterbakes/src/images/flavor_preview/madeline.png";
-import Brownie from "/Users/zainab/sweetbatterbakes/src/images/flavor_preview/brownies.png"
-import Cupcake from "/Users/zainab/sweetbatterbakes/src/images/flavor_preview/cupcake.png"
-import Roll from "/Users/zainab/sweetbatterbakes/src/images/flavor_preview/rollcake.png"
-import Turnover from "/Users/zainab/sweetbatterbakes/src/images/flavor_preview/turnovers.png"
-import Stuffed from "/Users/zainab/sweetbatterbakes/src/images/flavor_preview/stuffed_c.png"
-import Cake from "/Users/zainab/sweetbatterbakes/src/images/Insta10.png"
-import Cheese from "/Users/zainab/sweetbatterbakes/src/images/insta2.png"
-import Cookie from "/Users/zainab/sweetbatterbakes/src/images/flavor_preview/classic_cookie.png"
+import Banana from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/flavor_preview/banana_bread.png";
+import Donut from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/flavor_preview/donuts.png";
+import Madeline from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/flavor_preview/madeline.png";
+import Brownie from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/flavor_preview/brownies.png"
+import Cupcake from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/flavor_preview/cupcake.png"
+import Roll from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/flavor_preview/rollcake.png"
+import Turnover from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/flavor_preview/turnovers.png"
+import Stuffed from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/flavor_preview/stuffed_c.png"
+import Cake from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/Insta10.png"
+import Cheese from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/insta2.png"
+import Cookie from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/flavor_preview/classic_cookie.png"
 
 export default function Products(){
     return(

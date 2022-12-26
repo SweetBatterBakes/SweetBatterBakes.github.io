@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Products from "./pages/products/Products";
 import {Container, Navbar, Nav} from "react-bootstrap"
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
-import companyLogo from "/Users/zainab/sweetbatterbakes/src/images/sbb_sqlogoclear.png";
+import companyLogo from "/Users/zainab/Documents/GitHub/SweetBatterBakes.github.io/sweetbatterbakes/src/images/sbb_sqlogoclear.png";
 import { BsInstagram } from "react-icons/bs";
 import {BsFillHeartFill} from "react-icons/bs"
 function App() {
